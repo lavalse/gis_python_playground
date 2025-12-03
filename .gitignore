@@ -1,0 +1,29 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda / virtual environment folders
+.env/
+.venv/
+venv/
+env/
+cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JupyterLab workspace files
+.jupyter/lab/workspaces/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
